@@ -1,2 +1,1 @@
-this is my first python class
-alliant international university 
+this is my first class at alliant international university 
